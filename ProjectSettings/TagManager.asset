@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PlayerProjectile
+  - EnemyProjectile
+  - Environment
+  - Interactable
+  - Resource
+  - Extraction
+  - Hazard
+  - Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3059202335
+    locked: 0
+  - name: Ground
+    uniqueID: 1884511127
+    locked: 0
+  - name: Environment
+    uniqueID: 130084107
+    locked: 0
+  - name: Interactable
+    uniqueID: 2570429405
+    locked: 0
+  - name: Characters
+    uniqueID: 532089319
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3929064757
+    locked: 0
+  - name: Effects_Back
+    uniqueID: 3563955659
+    locked: 0
+  - name: Effects_Front
+    uniqueID: 2979792489
+    locked: 0
+  - name: UI
+    uniqueID: 3685150941
+    locked: 0
+  m_RenderingLayers:
+  - Default
